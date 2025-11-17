@@ -38,6 +38,6 @@ export const metadata: Metadata = {
     title: 'eversi.de solutions',
     description: 'We are a team of developers which create personalized experiences for our customers.',
     icons: {
-        icon: '/img/logo.svg'
+        icon: '/img/logo.png'
     }
 }
